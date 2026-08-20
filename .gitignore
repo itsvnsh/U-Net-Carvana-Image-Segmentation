@@ -1,0 +1,24 @@
+# Dataset - don't upload Carvana dataset
+data/
+
+# Generated segmentation images
+saved_images/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Mac files
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Model checkpoints
+*.pth
+*.pth.tar
+*.pt
